@@ -109,6 +109,7 @@ Commercial tools are useful for discovery:
 - Splink - Probabilistic entity resolution for customer deduplication and identity matching. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/moj-analytical-services/splink)
 
 - RapidFuzz - Fast fuzzy string matching useful for names, aliases and customer-record comparison. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/rapidfuzz/RapidFuzz)
+- china-usci - Offline checks of mainland China's 18-character USCI format, allowed characters and check digit; passing does not verify registration, creditworthiness or payment safety. [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/zbl1998-sdjn/china-usci) [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://currawongweb.com/verify/china-usci-checker/)
 
 ## Case Management & Investigation
 
