@@ -58,6 +58,8 @@ Commercial tools are useful for discovery:
 	
 - AI DECISIONS - Multi-chain wallet screening API (Ethereum, Bitcoin, Tron, Base, Arbitrum, Gnosis): sanctions, mixer exposure, risk tier; free tier and a free public checker. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://aidecisions.ai)
 
+- FreezeRadar - Wallet risk checker for freezeable assets (USDT/USDC/PAXG issuer blacklist, sanctions exposure, live freeze/release activity). [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://freezeradar.com)
+
 - SanctionsKit - Sanctions screening API and review dashboard for checking people and companies, with source-linked results. Free synthetic sandbox; paid production screening. [![Website](https://img.shields.io/badge/Website-Link-2F80ED)](https://www.sanctionskit.com/product/api) [![Code](https://img.shields.io/badge/Code-GitHub-2DA44E)](https://github.com/SanctionsKit)
 
 ## Transaction Monitoring (AML)
